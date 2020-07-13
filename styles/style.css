@@ -50,4 +50,13 @@ a {
 .home {
   background: radial-gradient(#525252, #131313);
 }
+
+.nav-containter {
+  background: #070707;
+}
+
+nav {
+  width: 80%;
+  margin: auto;
+}
 /*# sourceMappingURL=style.css.map */
