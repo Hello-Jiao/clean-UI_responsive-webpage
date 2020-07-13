@@ -29,4 +29,25 @@ h2 {
 h3 {
   font-size: 3.5rem;
 }
+
+h4 {
+  font-size: 3rem;
+}
+
+p {
+  font: size 2.5rem;
+}
+
+li {
+  font-size: 2rem;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.home {
+  background: radial-gradient(#525252, #131313);
+}
 /*# sourceMappingURL=style.css.map */
